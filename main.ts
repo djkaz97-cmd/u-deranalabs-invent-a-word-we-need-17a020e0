@@ -11,7 +11,7 @@ const path = require("node:path");
 
 // The entry itself. Plain string constant: every run writes these exact bytes.
 const LINE =
-  "crumbrage (n.) — the quiet fury of finding toast crumbs in the butter everyone shares.";
+  "kerbgrief (n.) — the small grief of reaching the kerb just as the bus pulls away.";
 
 // Local mirror of the sealed gate: the gate counts characters (code points),
 // not bytes, so a refusal here has to name the same measure.
